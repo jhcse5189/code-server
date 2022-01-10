@@ -80,6 +80,6 @@ sudo apt remove code-server
 ## Reference
 
 - https://coder.com/docs/code-server/latest/install
-
+- https://velog.io/@jakeshin/AWS-EC2%EC%97%90-code-server-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8F%84%EB%A9%94%EC%9D%B8-ssl-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80
 
 
